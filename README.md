@@ -7,6 +7,11 @@ https://grupp-web.de/cms/2020/01/03/installation-of-packet-tracer-7-3-on-rpm-lin
 https://www.reddit.com/r/debian/comments/fbbrxg/is_anyone_able_to_install_packettracer_on_debian/
 
 # Etapes
+## Télécharger le DEB
+Télécharger gratuitement le paquet deb sur Cisco Netacad ou
+
+https://mega.nz/file/L4cwTCwR#ZdUjpwPiIE_q26hForhatXOrMEYyBP8L7iGlrbUlsuw
+
 ## Décompresser le DEB
 
 	mkdir /tmp/PacketTracerInst
